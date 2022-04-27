@@ -16,4 +16,8 @@ Repositorio de programas da aula devsecops
 
 #### Este é um item nivel 4
 
-'Este é um exemplo de código'
+`Este é um exemplo de linha de código`
+
+```
+Este é um exemplo de bloco de código
+```
